@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aguardando">Aguardando conexão</string>
+    <string name="conectando">Conectando com %1$s</string>
+    <string name="parear_com">Parear com %1$s?</string>
+    <string name="parear_instrucao">Se o código for igual ao do Mac, aperte OK. Voltar recusa.</string>
+</resources>

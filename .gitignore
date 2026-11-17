@@ -1,0 +1,13 @@
+# Chave que assina o app da TV — nunca versionar (permitiria publicar "atualizações" falsas do AirView)
+*.keystore
+*.jks
+
+# Gerados na compilação
+mac/.build/
+mac/build/
+mac/AudioDriver/build/
+android/build/
+*.apk
+*.idsig
+
+.DS_Store
