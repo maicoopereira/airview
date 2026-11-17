@@ -20,10 +20,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
-
-Exception: everything under mac/AudioDriver/ is a derivative of BlackHole
-(https://github.com/ExistentialAudio/BlackHole) and is licensed under the GNU
-General Public License v3.0 — see mac/AudioDriver/LICENSE. The audio driver is a
-separate program loaded by macOS (coreaudiod); the rest of AirView only talks to
-it through the system's Core Audio interfaces.
